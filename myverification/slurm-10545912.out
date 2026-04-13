@@ -1,0 +1,4 @@
+tee: /var/spool/slurm/job10545912/myoutput/validation_output.err: No such file or directory
+tee: /var/spool/slurm/job10545912/myoutput/validation_output.out: No such file or directory
+mkdir: cannot create directory ‘/var/spool/slurm/job10545912/myoutput’: Permission denied
+/var/spool/slurm/job10545912/slurm_script: line 39: /var/spool/slurm/job10545912/myoutput/validation_output.out: No such file or directory
